@@ -1,0 +1,4 @@
+# myGit_GroundMeshControl_test1
+【UnityData】GroundMesh_TestController_sample1
+Unityの3Dモデルのメッシュを操作する研究のために制作したものです。
+ワールドを生成するためのマップチップを変形させるシステムにも応用できそうです。
